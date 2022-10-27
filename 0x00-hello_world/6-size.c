@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main declares various datatypes as variables 
+ * main - declares various datatypes as variables 
  * prints the sizes of the variqbles to the application using sizeof function
  * Return: 0 (success)
  *
